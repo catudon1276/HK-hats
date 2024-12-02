@@ -127,6 +127,7 @@
         "Name" : "\u304b\u306a\u3061\u3043",
         "Bounce": "false",
         "Adaptive": "true",
+        "IsSkinny": "true",
         "SeekerCostume": "false",
         "Main": {
             "Address": "HK00sad_adaptive.png",
