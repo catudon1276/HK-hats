@@ -1,0 +1,219 @@
+{
+    "hats": [
+        
+    {
+        "Author": "HK",
+        "Package": "HK Hats",
+        "Name" : "\u8d64\u3061\u3083\u3093",
+        "Bounce": "false",
+        "Adaptive": "true",
+        "HideHands": "true",
+        "Main": {
+            "Address": "HK00baby_adaptive.png",
+            "Hash": "5c98746d0018f0c3636dfdacea34f008"
+        },
+        "Climb": {
+            "Address": "HK00baby_climb_adaptive.png",
+            "Hash": "b3ca7478a3bc0d6b5e5eb4ae7bdcbce4"
+        }
+    },
+    {
+        "Author": "HK",
+        "Package": "HK Hats",
+        "Name" : "\u3057\u3083\u304f\u308c\u984e",
+        "Bounce": "false",
+        "Adaptive": "true",
+        "SeekerCostume": "false",
+        "Main": {
+            "Address": "HK00crookedchin_adaptive.png",
+            "Hash": "d7b692c7db158bf0c5f2b39703abbded"
+        },
+        "Climb": {
+            "Address": "HK00crookedchin_climb_adaptive.png",
+            "Hash": "768d5bcd3137330d48e35e8c482d4bbf"
+        }
+    },
+    {
+        "Author": "HK",
+        "Package": "HK Hats",
+        "Name" : "\u3060\u308b\u307e\u3055\u3093",
+        "Bounce": "false",
+        "Adaptive": "true",
+        "SeekerCostume": "false",
+        "Main": {
+            "Address": "HK00daruma_adaptive.png",
+            "Hash": "b871f5157e103fc4d6809b9bcf339fac"
+        },
+        "Climb": {
+            "Address": "HK00daruma_climb_adaptive.png",
+            "Hash": "a7c5336a4f78a27899fd7fa934cb7ac1"
+        }
+    },
+    {
+        "Author": "HK",
+        "Package": "HK Hats",
+        "Name" : "\u30aa\u30e9\u30aa\u30e9\u3057\u305d\u3046\u306a\u9aea\u578b",
+        "Bounce": "false",
+        "Adaptive": "true",
+        "Main": {
+            "Address": "HK00kakugari_adaptive.png",
+            "Hash": "60a360e5644b7d7cef73974302363803"
+        },
+        "Back": {
+            "Address": "HK00kakugari_back_adaptive.png",
+            "Hash": "2fc0af88972bc301c8313e719779c1ac"
+        },
+        "Climb": {
+            "Address": "HK00kakugari_climb_adaptive.png",
+            "Hash": "41ea36400f496a50667c3fa5893595fd"
+        }
+    },
+    {
+        "Author": "HK",
+        "Package": "HK Hats",
+        "Name" : "\u304a\u733f\u3055\u3093",
+        "Bounce": "false",
+        "Adaptive": "true",
+        "Main": {
+            "Address": "HK00monkey_adaptive.png",
+            "Hash": "a418c79d885a968c58d62d8275ec84fd"
+        },
+        "Back": {
+            "Address": "HK00monkey_back_adaptive.png",
+            "Hash": "317d092da43a98b9f1a5c86a3e1fa2ec"
+        },
+        "Climb": {
+            "Address": "HK00monkey_climb_adaptive.png",
+            "Hash": "d05e504d482fa71d01ea8fa483fd85b8"
+        }
+    },
+    {
+        "Author": "HK",
+        "Package": "HK Hats",
+        "Name" : "\u30d7\u30e9\u30b9\u306d\u3058",
+        "Bounce": "false",
+        "Adaptive": "true",
+        "Main": {
+            "Address": "HK00PhillipsScrew_adaptive.png",
+            "Hash": "6d26f0725117ee9cae296b302eb8fbda"
+        },
+        "Climb": {
+            "Address": "HK00PhillipsScrew_climb_adaptive.png",
+            "Hash": "de318142cf97e07547d5f7fea1262cb2"
+        }
+    },
+    {
+        "Author": "HK",
+        "Package": "HK Hats",
+        "Name" : "\u7a81\u3063\u5f35\u308b\u3053\u3068\u304c\u7537\u306a\u9aea\u578b",
+        "Bounce": "false",
+        "Adaptive": "true",
+        "Main": {
+            "Address": "HK00regent_adaptive.png",
+            "Hash": "5b638ee993b5680079a0f44cc8b327ca"
+        },
+        "Back": {
+            "Address": "HK00regent_back_adaptive.png",
+            "Hash": "3912c626da0f4c64c47eafc377835410"
+        },
+        "Climb": {
+            "Address": "HK00regent_climb_adaptive.png",
+            "Hash": "09f67c181d1503934388f2d9bbecf879"
+        }
+    },
+    {
+        "Author": "HK",
+        "Package": "HK Hats",
+        "Name" : "\u304b\u306a\u3061\u3043",
+        "Bounce": "false",
+        "Adaptive": "true",
+        "SeekerCostume": "false",
+        "Main": {
+            "Address": "HK00sad_adaptive.png",
+            "Hash": "42f50d2fe4f871c33eef00ff39441d20"
+        },
+        "Climb": {
+            "Address": "HK00sad_climb_adaptive.png",
+            "Hash": "67ce4f35df12c3c0f5d39bf0a9b436d9"
+        }
+    },
+    {
+        "Author": "HK",
+        "Package": "HK Hats",
+        "Name" : "\u53eb\u3070\u306a\u305d\u3046\u306a\u9aea\u578b",
+        "Bounce": "false",
+        "Adaptive": "false",
+        "Main": {
+            "Address": "HK01hirakoji.png",
+            "Hash": "b1b3d24aae79105790425d7e5522a618"
+        },
+        "Back": {
+            "Address": "HK01hirakoji_back.png",
+            "Hash": "05f2e65659bfdfdc75e6a9c0e91fe442"
+        },
+        "Climb": {
+            "Address": "HK01hirakoji_climb.png",
+            "Hash": "f3bd6759af07aac7368abc94ce45b62d"
+        }
+    },
+    {
+        "Author": "HK",
+        "Package": "HK Hats",
+        "Name" : "\u30b4\u30ea\u30e9\u304b\u3089\u64ec\u4eba\u5316\u3057\u3066\u305d\u3046\u306a\u9aea\u578b",
+        "Bounce": "false",
+        "Adaptive": "false",
+        "Main": {
+            "Address": "HK02leaf.png",
+            "Hash": "a60c540e76741ba4fee9bce78be78cc1"
+        },
+        "Climb": {
+            "Address": "HK02leaf_climb.png",
+            "Hash": "a9c157b6e6d30ad6bd79c0c5670a7480"
+        },
+        "Flip": {
+            "Address": "HK02leaf_flip.png",
+            "Hash": "fd09021d1ffba2e4824b556076d5a63e"
+        }
+    },
+    {
+        "Author": "HK",
+        "Package": "HK Hats",
+        "Name" : "\u65e5\u672c\u4e00\u660e\u308b\u305d\u3046\u306a\u9aea\u578b",
+        "Bounce": "false",
+        "Adaptive": "false",
+        "Main": {
+            "Address": "HK03tukisara.png",
+            "Hash": "ac8def48b40809b9cb478837f81dee8a"
+        },
+        "Back": {
+            "Address": "HK03tukisara_back.png",
+            "Hash": "7889584c76f01862777139772651c27f"
+        },
+        "Climb": {
+            "Address": "HK03tukisara_climb.png",
+            "Hash": "011359dec7aa46325bcc32bf97def137"
+        }
+    },
+    {
+        "Author": "HK",
+        "Package": "HK Hats",
+        "Name" : "\u65e5\u672c\u4e00\u660e\u308b\u305d\u3046\u306a\u9aea\u578b",
+        "Bounce": "false",
+        "Adaptive": "false",
+        "Main": {
+            "Address": "HK03tukisara.png",
+            "Hash": "8eca9326187b43c0c51d71b418a75eea"
+        },
+        "Climb": {
+            "Address": "HK03tukisara_back.png",
+            "Hash": "302a615ee7f98929cff92e3711bd5028"
+        },
+        "Flip": {
+            "Address": "HK03tukisara_climb.png",
+            "Hash": "c7712c37ef917c5c4b8028f8a36de19f"
+        }
+    }
+
+    ]
+
+}
