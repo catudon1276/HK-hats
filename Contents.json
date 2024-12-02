@@ -201,15 +201,15 @@
         "Bounce": "false",
         "Adaptive": "false",
         "Main": {
-            "Address": "HK03tukisara.png",
-            "Hash": "8eca9326187b43c0c51d71b418a75eea"
+            "Address": "HK04dars.png",
+            "Hash": "HK04dars"
         },
         "Climb": {
-            "Address": "HK03tukisara_back.png",
+            "Address": "HK04dars_climb.png",
             "Hash": "302a615ee7f98929cff92e3711bd5028"
         },
         "Flip": {
-            "Address": "HK03tukisara_climb.png",
+            "Address": "HK04dars_flip.png",
             "Hash": "c7712c37ef917c5c4b8028f8a36de19f"
         }
     }
@@ -219,7 +219,7 @@
         {
             "Package" : "HK Hats",
             "Format" : "HK Hats",
-            "Priority" : "15"
+            "Priority" : "3"
         }
     ]
 }
