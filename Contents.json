@@ -74,6 +74,7 @@
         "Name" : "\u304a\u733f\u3055\u3093",
         "Bounce": "false",
         "Adaptive": "true",
+        "Tags" : ["animal"],
         "Main": {
             "Address": "HK00monkey_adaptive.png",
             "Hash": "a418c79d885a968c58d62d8275ec84fd"
